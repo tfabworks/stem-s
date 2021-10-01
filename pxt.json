@@ -6,7 +6,7 @@
         "radio": "*",
         "microphone": "*",
         "stem_s": "github:tfabworks/pxt-stem-s#v2.2.2",
-        "pxt-tfabtools": "github:tfabworks/pxt-tfabtools#1.0.4"    
+        "pxt-tfabtools": "github:tfabworks/pxt-tfabtools#1.0.3"    
     },
     "files": [
         "main.blocks",
